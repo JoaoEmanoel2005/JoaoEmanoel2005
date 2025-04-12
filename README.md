@@ -1,4 +1,4 @@
-# Olá, meu nome é João Emanoel 👩🏻‍💻
+# Olá, meu nome é João Emanoel 👨‍💻
 
 ### Estudo Desenvolvimento Web e cursando ADS.
 
