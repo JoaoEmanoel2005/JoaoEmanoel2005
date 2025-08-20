@@ -1,16 +1,17 @@
 # Olá, meu nome é João Emanoel 👨‍💻
 
-### Estudo Desenvolvimento Web e estou cursando Análise e Desenvolvimento de Sistemas.
+### Sou desenvolvedor com foco em **back-end**, integração de **APIs** e **bancos de dados (SQL)**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, onde adquiro diversos conhecimentos na área da computação.
 
 ---
 
-### Tecnologias que uso em meus projetos:
+### Tecnologias que utilizo em meus projetos:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,mysql,nodejs,express,flask,nextjs)](https://skillicons.dev)
 
 ---
 
-### Já tive experiência com:
+### Experiência adicional com:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,mongodb,react,sqlite,php)](https://skillicons.dev)
 
