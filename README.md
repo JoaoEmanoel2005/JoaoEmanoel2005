@@ -1,6 +1,6 @@
 # Olá, meu nome é João Emanoel 👨‍💻
 
-### Sou desenvolvedor com foco em **back-end**, integração de **APIs** e **bancos de dados (SQL)**.  
+### Sou um desenvolvedor **Full-Stack** e tenho vastas experiencias com integração de **APIs**, **bancos de dados relacionais/nao relacionais**, ORMs, desenvolvimento de sites web.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, onde adquiro diversos conhecimentos na área da computação.
 
 ---
